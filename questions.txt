@@ -1,0 +1,4 @@
+Who is the most efficient Player?
+What is the most efficient group of players?
+Are there any factors that correlate strongly with a win?
+Are there any factors that correlate strongly with a loss?

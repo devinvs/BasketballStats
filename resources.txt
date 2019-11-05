@@ -1,0 +1,8 @@
+General:
+
+dataquest.io
+https://medium.com/@randerson112358/how-the-nba-uses-data-analytics-6eac3c43a096
+
+Bayesian Graph Models (Advanced):
+
+https://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
