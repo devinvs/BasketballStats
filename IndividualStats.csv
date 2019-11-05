@@ -1,0 +1,258 @@
+Game,PTSPoints - Total points accrued by that player,FGThe number of field goals made - attempted by a player (the proportion of field goals attempted that were also made),2PThe number of two point field goals made - attempted (the proportion of two pointers attempted that were also made),3PThe number of three point field goals made - attempted (the proportion of three pointers attempted that were also made),FTThe number of free throws made - attempted (the proportion of free throws attempted that were also made),OROffensive Rebounds - The number of offensive rebounds collected by that player,DRDefensive Rebounds - The number of defensive rebounds collected by that player,TRTotal Rebounds - The total number of rebounds collected by that player,ASTAssists - The total number of assists credited to that player,STLSteals - The total number of steals by a player,BLKBlocks - This is the number of blocked shots by a player,TOTurnovers - The number of turnovers (not including offensive fouls),PFPersonal Fouls - This is the number of personal fouls accrued by that player,PFDPersonal Fouls Drawn - The number of personal fouls drawn by that player,TECHTechnical Fouls - The number of technical fouls accrued by that player,EFF,Player
+vs. Homedale Nov 27,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,1,1,1,2,2,0,0,3,Caleb Renfrow
+vs. Nyssa Nov 30,0,0 - 4 - 0%,0 - 3 - 0%,0 - 1 - 0%,0 - 0 - 0%,0,0,0,1,1,0,1,2,0,0,-3,Caleb Renfrow
+at Homedale Dec 06,4,2 - 3 - 67%,2 - 3 - 67%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,1,0,0,0,0,0,0,4,Caleb Renfrow
+at Firth Dec 07,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,2,0,0,-1,Caleb Renfrow
+at South Fremont Dec 08,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-2,Caleb Renfrow
+at Parma Dec 11,3,1 - 2 - 50%,0 - 1 - 0%,1 - 1 - 100%,0 - 0 - 0%,0,0,0,0,1,0,0,1,0,0,3,Caleb Renfrow
+at Ambrose Dec 14,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,1,0,0,0,Caleb Renfrow
+at Nyssa Dec 15,0,0 - 2 - 0%,0 - 0 - 0%,0 - 2 - 0%,0 - 0 - 0%,0,0,0,2,1,0,0,0,0,0,1,Caleb Renfrow
+vs. Payette Dec 18,5,2 - 4 - 50%,2 - 3 - 67%,0 - 1 - 0%,1 - 2 - 50%,3,0,3,2,3,0,0,2,2,0,10,Caleb Renfrow
+at McCall Jan 04,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,2,2,0,0,-2,Caleb Renfrow
+at Payette Jan 05,5,2 - 8 - 25%,1 - 4 - 25%,1 - 4 - 25%,0 - 0 - 0%,1,2,3,0,1,0,1,1,1,0,2,Caleb Renfrow
+at New Plymouth Jan 09,1,0 - 3 - 0%,0 - 2 - 0%,0 - 1 - 0%,1 - 2 - 50%,2,0,2,0,2,0,0,0,1,0,1,Caleb Renfrow
+vs. Melba Jan 12,2,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,2 - 2 - 100%,1,3,4,1,0,0,1,1,2,0,5,Caleb Renfrow
+vs. Nampa Christian Jan 18,2,1 - 2 - 50%,1 - 2 - 50%,0 - 0 - 0%,0 - 0 - 0%,2,0,2,0,0,0,0,0,0,0,3,Caleb Renfrow
+at Marsing Jan 22,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,-1,Caleb Renfrow
+vs. McCall Jan 25,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-1,Caleb Renfrow
+vs. New Plymouth Jan 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,1,0,0,0,Caleb Renfrow
+at Melba Feb 01,1,0 - 2 - 0%,0 - 1 - 0%,0 - 1 - 0%,1 - 2 - 50%,0,3,3,1,0,0,0,1,2,0,2,Caleb Renfrow
+at Nampa Christian Feb 06,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,1,0,0,0,1,0,0,1,Caleb Renfrow
+vs. Marsing Feb 08,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,0,0,0,0,0,0,1,Caleb Renfrow
+vs. Melba Feb 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Caleb Renfrow
+at Marsing Feb 21,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Caleb Renfrow
+vs. Bear Lake Feb 28,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Caleb Renfrow
+vs. Homedale Nov 27,2,1 - 1 - 100%,1 - 1 - 100%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,2,Brennen Donahue
+vs. Nyssa Nov 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brennen Donahue
+at Homedale Dec 06,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brennen Donahue
+at Firth Dec 07,2,1 - 3 - 33%,1 - 1 - 100%,0 - 2 - 0%,0 - 0 - 0%,1,3,4,3,3,0,2,2,1,0,8,Brennen Donahue
+at South Fremont Dec 08,2,1 - 4 - 25%,1 - 3 - 33%,0 - 1 - 0%,0 - 0 - 0%,0,2,2,7,1,0,2,1,2,0,7,Brennen Donahue
+at Parma Dec 11,0,0 - 2 - 0%,0 - 2 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,2,3,3,0,0,2,4,1,0,2,Brennen Donahue
+at Ambrose Dec 14,3,1 - 2 - 50%,1 - 2 - 50%,0 - 0 - 0%,1 - 2 - 50%,1,3,4,3,2,0,4,0,2,0,6,Brennen Donahue
+at Nyssa Dec 15,1,0 - 4 - 0%,0 - 3 - 0%,0 - 1 - 0%,1 - 3 - 33%,2,1,3,1,0,0,1,0,3,0,-2,Brennen Donahue
+vs. Payette Dec 18,5,2 - 6 - 33%,2 - 4 - 50%,0 - 2 - 0%,1 - 1 - 100%,0,4,4,1,2,0,4,1,1,0,4,Brennen Donahue
+at McCall Jan 04,10,5 - 8 - 63%,5 - 8 - 63%,0 - 0 - 0%,0 - 0 - 0%,5,0,5,5,4,0,2,2,1,0,19,Brennen Donahue
+at Payette Jan 05,4,2 - 4 - 50%,2 - 4 - 50%,0 - 0 - 0%,0 - 0 - 0%,2,1,3,4,1,0,3,0,0,0,7,Brennen Donahue
+at New Plymouth Jan 09,6,2 - 4 - 50%,2 - 2 - 100%,0 - 2 - 0%,2 - 2 - 100%,2,5,7,5,2,0,2,1,1,0,16,Brennen Donahue
+vs. Melba Jan 12,2,0 - 5 - 0%,0 - 4 - 0%,0 - 1 - 0%,2 - 2 - 100%,3,2,5,2,1,0,1,0,0,0,4,Brennen Donahue
+vs. Nampa Christian Jan 18,4,2 - 7 - 29%,2 - 6 - 33%,0 - 1 - 0%,0 - 0 - 0%,1,3,4,5,1,0,3,1,2,0,6,Brennen Donahue
+at Marsing Jan 22,4,2 - 3 - 67%,2 - 3 - 67%,0 - 0 - 0%,0 - 0 - 0%,1,3,4,3,0,0,4,0,1,0,6,Brennen Donahue
+vs. McCall Jan 25,4,1 - 2 - 50%,1 - 1 - 100%,0 - 1 - 0%,2 - 3 - 67%,4,3,7,8,1,1,1,1,3,0,18,Brennen Donahue
+vs. New Plymouth Jan 30,2,1 - 4 - 25%,1 - 4 - 25%,0 - 0 - 0%,0 - 0 - 0%,4,1,5,1,1,0,1,1,0,0,5,Brennen Donahue
+at Melba Feb 01,7,3 - 6 - 50%,2 - 5 - 40%,1 - 1 - 100%,0 - 0 - 0%,7,4,11,6,1,0,7,0,1,0,15,Brennen Donahue
+at Nampa Christian Feb 06,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 1 - 0%,0,1,1,6,1,0,4,1,1,0,2,Brennen Donahue
+vs. Marsing Feb 08,8,2 - 4 - 50%,1 - 2 - 50%,1 - 2 - 50%,3 - 3 - 100%,0,0,0,1,5,0,2,0,1,0,10,Brennen Donahue
+vs. Melba Feb 18,4,2 - 2 - 100%,2 - 2 - 100%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,4,0,0,2,1,0,0,8,Brennen Donahue
+at Marsing Feb 21,7,3 - 3 - 100%,2 - 2 - 100%,1 - 1 - 100%,0 - 0 - 0%,0,2,2,5,1,1,1,3,1,0,15,Brennen Donahue
+vs. Bear Lake Feb 28,6,2 - 6 - 33%,2 - 6 - 33%,0 - 0 - 0%,2 - 4 - 50%,0,5,5,3,1,0,2,3,2,0,7,Brennen Donahue
+vs. Homedale Nov 27,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Josh Cucchiari
+vs. Nyssa Nov 30,13,5 - 11 - 45%,2 - 7 - 29%,3 - 4 - 75%,0 - 0 - 0%,1,1,2,2,2,1,3,2,1,0,11,Josh Cucchiari
+at Homedale Dec 06,6,2 - 5 - 40%,1 - 3 - 33%,1 - 2 - 50%,1 - 1 - 100%,0,1,1,5,1,0,4,2,3,0,6,Josh Cucchiari
+at Firth Dec 07,7,3 - 7 - 43%,2 - 3 - 67%,1 - 4 - 25%,0 - 0 - 0%,0,0,0,2,1,0,2,2,0,0,4,Josh Cucchiari
+at South Fremont Dec 08,8,3 - 5 - 60%,2 - 3 - 67%,1 - 2 - 50%,1 - 3 - 33%,1,2,3,6,3,0,2,2,2,0,14,Josh Cucchiari
+at Parma Dec 11,2,1 - 3 - 33%,1 - 2 - 50%,0 - 1 - 0%,0 - 0 - 0%,0,2,2,3,0,0,6,2,0,0,-1,Josh Cucchiari
+at Ambrose Dec 14,9,3 - 10 - 30%,2 - 7 - 29%,1 - 3 - 33%,2 - 2 - 100%,1,3,4,1,2,0,2,1,3,0,7,Josh Cucchiari
+at Nyssa Dec 15,8,3 - 6 - 50%,2 - 4 - 50%,1 - 2 - 50%,1 - 2 - 50%,2,2,4,1,3,0,3,4,1,0,9,Josh Cucchiari
+vs. Payette Dec 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,2,1,0,1,0,0,0,3,Josh Cucchiari
+at McCall Jan 04,2,1 - 5 - 20%,1 - 1 - 100%,0 - 4 - 0%,0 - 0 - 0%,0,0,0,3,1,0,4,4,1,0,-2,Josh Cucchiari
+at Payette Jan 05,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,2,3,5,2,0,0,0,0,0,10,Josh Cucchiari
+at New Plymouth Jan 09,3,1 - 2 - 50%,0 - 0 - 0%,1 - 2 - 50%,0 - 0 - 0%,0,0,0,1,1,0,0,3,0,0,4,Josh Cucchiari
+vs. Melba Jan 12,0,0 - 2 - 0%,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0,3,3,4,1,0,2,1,0,0,4,Josh Cucchiari
+vs. Nampa Christian Jan 18,9,3 - 7 - 43%,0 - 2 - 0%,3 - 5 - 60%,0 - 0 - 0%,0,0,0,1,1,1,2,2,4,0,6,Josh Cucchiari
+at Marsing Jan 22,2,1 - 8 - 13%,1 - 6 - 17%,0 - 2 - 0%,0 - 1 - 0%,1,1,2,4,0,0,1,2,2,0,-1,Josh Cucchiari
+vs. McCall Jan 25,8,2 - 6 - 33%,0 - 2 - 0%,2 - 4 - 50%,2 - 4 - 50%,3,0,3,6,2,0,3,1,3,0,10,Josh Cucchiari
+vs. New Plymouth Jan 30,2,0 - 1 - 0%,0 - 0 - 0%,0 - 1 - 0%,2 - 4 - 50%,1,1,2,4,2,0,2,0,2,0,5,Josh Cucchiari
+at Melba Feb 01,5,2 - 6 - 33%,1 - 3 - 33%,1 - 3 - 33%,0 - 2 - 0%,0,2,2,2,0,0,1,1,3,0,2,Josh Cucchiari
+at Nampa Christian Feb 06,5,2 - 6 - 33%,1 - 1 - 100%,1 - 5 - 20%,0 - 0 - 0%,0,0,0,2,0,0,4,3,2,0,-1,Josh Cucchiari
+vs. Marsing Feb 08,5,2 - 6 - 33%,1 - 4 - 25%,1 - 2 - 50%,0 - 2 - 0%,0,2,2,3,0,0,3,2,2,0,1,Josh Cucchiari
+vs. Melba Feb 18,5,1 - 9 - 11%,1 - 7 - 14%,0 - 2 - 0%,3 - 4 - 75%,2,2,4,4,2,0,2,1,2,0,4,Josh Cucchiari
+at Marsing Feb 21,6,2 - 5 - 40%,2 - 4 - 50%,0 - 1 - 0%,2 - 2 - 100%,1,1,2,4,3,0,3,3,1,0,9,Josh Cucchiari
+vs. Bear Lake Feb 28,3,1 - 7 - 14%,1 - 3 - 33%,0 - 4 - 0%,1 - 5 - 20%,0,1,1,2,0,0,2,1,4,0,-6,Josh Cucchiari
+vs. Homedale Nov 27,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,2,2,1,0,0,0,2,1,0,3,Brady Frame
+vs. Nyssa Nov 30,2,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,2 - 2 - 100%,0,0,0,0,0,0,0,0,1,0,2,Brady Frame
+at Homedale Dec 06,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,2,2,1,0,0,1,1,0,0,2,Brady Frame
+at Firth Dec 07,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 1 - 0%,0,0,0,0,1,0,0,1,1,0,-1,Brady Frame
+at South Fremont Dec 08,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,1,0,0,0,0,0,1,Brady Frame
+at Parma Dec 11,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,0,1,0,1,0,0,1,Brady Frame
+at Ambrose Dec 14,4,2 - 2 - 100%,2 - 2 - 100%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,0,1,0,3,3,0,0,3,Brady Frame
+at Nyssa Dec 15,2,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,2 - 2 - 100%,0,0,0,0,0,0,0,1,1,0,2,Brady Frame
+vs. Payette Dec 18,3,1 - 1 - 100%,0 - 0 - 0%,1 - 1 - 100%,0 - 2 - 0%,1,3,4,1,3,1,1,1,1,0,9,Brady Frame
+at McCall Jan 04,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brady Frame
+at Payette Jan 05,2,1 - 4 - 25%,1 - 3 - 33%,0 - 1 - 0%,0 - 0 - 0%,3,2,5,1,2,0,3,2,0,0,4,Brady Frame
+at New Plymouth Jan 09,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,1,0,0,2,0,0,0,-1,Brady Frame
+vs. Melba Jan 12,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,2,3,0,1,0,5,2,1,0,-1,Brady Frame
+vs. Nampa Christian Jan 18,0,0 - 3 - 0%,0 - 3 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,0,1,0,0,0,0,0,-1,Brady Frame
+vs. McCall Jan 25,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brady Frame
+vs. New Plymouth Jan 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brady Frame
+at Melba Feb 01,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,2,0,0,-1,Brady Frame
+at Nampa Christian Feb 06,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brady Frame
+vs. Marsing Feb 08,2,1 - 3 - 33%,1 - 2 - 50%,0 - 1 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,2,0,0,0,Brady Frame
+vs. Melba Feb 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-1,Brady Frame
+at Marsing Feb 21,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Brady Frame
+vs. Bear Lake Feb 28,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 2 - 0%,1,0,1,0,0,0,0,1,1,0,-1,Brady Frame
+vs. Homedale Nov 27,2,1 - 3 - 33%,1 - 3 - 33%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,1,0,1,2,0,0,1,Noah Corder
+vs. Nyssa Nov 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Noah Corder
+at Homedale Dec 06,2,1 - 4 - 25%,1 - 4 - 25%,0 - 0 - 0%,0 - 0 - 0%,2,2,4,0,0,0,2,2,0,0,1,Noah Corder
+at Firth Dec 07,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,0,0,0,1,2,0,0,-1,Noah Corder
+at South Fremont Dec 08,4,2 - 3 - 67%,2 - 3 - 67%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,2,Noah Corder
+at Parma Dec 11,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Noah Corder
+at Ambrose Dec 14,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,1,0,1,1,2,0,0,Noah Corder
+at Nyssa Dec 15,2,1 - 1 - 100%,1 - 1 - 100%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,1,0,2,1,0,0,2,Noah Corder
+vs. Payette Dec 18,0,0 - 4 - 0%,0 - 4 - 0%,0 - 0 - 0%,0 - 2 - 0%,2,0,2,0,1,0,2,2,2,0,-5,Noah Corder
+at McCall Jan 04,0,0 - 2 - 0%,0 - 2 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,0,0,0,0,4,0,0,0,Noah Corder
+at Payette Jan 05,5,2 - 8 - 25%,2 - 8 - 25%,0 - 0 - 0%,1 - 2 - 50%,4,0,4,0,0,0,0,1,2,0,2,Noah Corder
+at New Plymouth Jan 09,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,3,2,5,0,1,0,1,2,2,0,4,Noah Corder
+vs. Melba Jan 12,4,2 - 2 - 100%,2 - 2 - 100%,0 - 0 - 0%,0 - 0 - 0%,2,3,5,0,0,0,0,0,1,0,9,Noah Corder
+vs. Nampa Christian Jan 18,0,0 - 2 - 0%,0 - 2 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,1,1,0,0,1,0,0,2,Noah Corder
+at Marsing Jan 22,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,0,0,0,3,0,0,0,Noah Corder
+vs. McCall Jan 25,2,1 - 1 - 100%,1 - 1 - 100%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,0,0,0,0,3,0,0,4,Noah Corder
+vs. New Plymouth Jan 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-1,Noah Corder
+at Melba Feb 01,6,3 - 3 - 100%,3 - 3 - 100%,0 - 0 - 0%,0 - 1 - 0%,2,2,4,2,0,0,0,1,2,0,11,Noah Corder
+at Nampa Christian Feb 06,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-1,Noah Corder
+vs. Marsing Feb 08,4,2 - 2 - 100%,2 - 2 - 100%,0 - 0 - 0%,0 - 0 - 0%,2,0,2,0,1,0,1,1,0,0,6,Noah Corder
+vs. Melba Feb 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,2,3,1,0,0,2,2,0,0,2,Noah Corder
+at Marsing Feb 21,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,1,1,0,2,1,0,3,Noah Corder
+vs. Bear Lake Feb 28,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,1,0,0,0,Noah Corder
+vs. Homedale Nov 27,19,6 - 6 - 100%,5 - 5 - 100%,1 - 1 - 100%,6 - 6 - 100%,3,6,9,0,0,0,0,0,0,0,28,Ricky Golenor
+vs. Nyssa Nov 30,20,6 - 12 - 50%,2 - 5 - 40%,4 - 7 - 57%,4 - 7 - 57%,1,13,14,2,0,3,3,0,4,0,27,Ricky Golenor
+at Firth Dec 07,11,5 - 16 - 31%,5 - 10 - 50%,0 - 6 - 0%,1 - 2 - 50%,0,8,8,1,0,1,3,4,4,0,6,Ricky Golenor
+at South Fremont Dec 08,20,9 - 14 - 64%,7 - 10 - 70%,2 - 4 - 50%,0 - 0 - 0%,1,6,7,0,0,3,5,2,3,0,20,Ricky Golenor
+at Parma Dec 11,16,6 - 14 - 43%,5 - 10 - 50%,1 - 4 - 25%,3 - 4 - 75%,4,7,11,2,0,1,3,3,4,0,18,Ricky Golenor
+at Ambrose Dec 14,18,7 - 13 - 54%,6 - 8 - 75%,1 - 5 - 20%,3 - 4 - 75%,1,9,10,1,1,2,2,3,3,0,23,Ricky Golenor
+at Nyssa Dec 15,21,10 - 24 - 42%,9 - 17 - 53%,1 - 7 - 14%,0 - 0 - 0%,4,10,14,1,0,4,3,2,0,0,23,Ricky Golenor
+vs. Payette Dec 18,14,6 - 11 - 55%,5 - 9 - 56%,1 - 2 - 50%,1 - 2 - 50%,2,4,6,0,3,1,3,2,1,0,15,Ricky Golenor
+at McCall Jan 04,24,9 - 19 - 47%,7 - 11 - 64%,2 - 8 - 25%,4 - 6 - 67%,4,12,16,1,1,1,3,4,3,0,28,Ricky Golenor
+at Payette Jan 05,16,8 - 10 - 80%,8 - 10 - 80%,0 - 0 - 0%,0 - 0 - 0%,1,3,4,1,1,2,1,1,0,0,21,Ricky Golenor
+at New Plymouth Jan 09,10,4 - 9 - 44%,4 - 5 - 80%,0 - 4 - 0%,2 - 2 - 100%,0,5,5,0,0,2,2,3,3,0,10,Ricky Golenor
+vs. Melba Jan 12,29,11 - 18 - 61%,7 - 13 - 54%,4 - 5 - 80%,3 - 4 - 75%,4,8,12,0,0,4,2,0,3,0,35,Ricky Golenor
+vs. Nampa Christian Jan 18,17,7 - 14 - 50%,6 - 9 - 67%,1 - 5 - 20%,2 - 3 - 67%,1,5,6,1,0,0,3,2,2,0,13,Ricky Golenor
+at Marsing Jan 22,16,6 - 18 - 33%,4 - 13 - 31%,2 - 5 - 40%,2 - 2 - 100%,4,5,9,1,0,2,1,4,4,0,15,Ricky Golenor
+vs. McCall Jan 25,18,6 - 14 - 43%,4 - 11 - 36%,2 - 3 - 67%,4 - 6 - 67%,2,1,3,2,0,1,2,7,2,0,12,Ricky Golenor
+vs. New Plymouth Jan 30,22,8 - 16 - 50%,8 - 13 - 62%,0 - 3 - 0%,6 - 8 - 75%,4,3,7,1,3,3,0,2,5,0,26,Ricky Golenor
+at Melba Feb 01,12,5 - 7 - 71%,3 - 4 - 75%,2 - 3 - 67%,0 - 0 - 0%,0,6,6,2,1,6,5,3,0,0,20,Ricky Golenor
+at Nampa Christian Feb 06,26,10 - 18 - 56%,6 - 11 - 55%,4 - 7 - 57%,2 - 2 - 100%,2,5,7,1,1,1,2,2,1,0,26,Ricky Golenor
+vs. Marsing Feb 08,13,6 - 14 - 43%,5 - 10 - 50%,1 - 4 - 25%,0 - 1 - 0%,3,7,10,0,2,2,3,3,1,0,15,Ricky Golenor
+vs. Melba Feb 18,19,7 - 15 - 47%,4 - 7 - 57%,3 - 8 - 38%,2 - 2 - 100%,0,5,5,1,1,3,3,2,4,0,18,Ricky Golenor
+at Marsing Feb 21,15,6 - 13 - 46%,4 - 9 - 44%,2 - 4 - 50%,1 - 4 - 25%,2,9,11,1,0,4,1,3,3,0,20,Ricky Golenor
+vs. Bear Lake Feb 28,22,8 - 14 - 57%,5 - 6 - 83%,3 - 8 - 38%,3 - 5 - 60%,1,10,11,3,3,2,0,3,4,0,33,Ricky Golenor
+vs. Homedale Nov 27,9,3 - 7 - 43%,2 - 5 - 40%,1 - 2 - 50%,2 - 3 - 67%,0,2,2,3,2,0,2,0,2,0,9,Nathan Wetzel
+vs. Nyssa Nov 30,9,4 - 12 - 33%,3 - 7 - 43%,1 - 5 - 20%,0 - 0 - 0%,3,6,9,2,1,0,6,2,1,0,7,Nathan Wetzel
+at Homedale Dec 06,20,8 - 17 - 47%,6 - 10 - 60%,2 - 7 - 29%,2 - 3 - 67%,0,4,4,1,1,0,0,0,3,0,16,Nathan Wetzel
+at Firth Dec 07,15,6 - 11 - 55%,6 - 10 - 60%,0 - 1 - 0%,3 - 5 - 60%,1,0,1,4,0,0,1,2,4,0,12,Nathan Wetzel
+at South Fremont Dec 08,4,2 - 6 - 33%,2 - 3 - 67%,0 - 3 - 0%,0 - 1 - 0%,0,1,1,2,2,0,1,1,1,0,3,Nathan Wetzel
+at Parma Dec 11,15,6 - 14 - 43%,3 - 8 - 38%,3 - 6 - 50%,0 - 0 - 0%,1,0,1,1,1,0,3,0,0,0,7,Nathan Wetzel
+at Ambrose Dec 14,16,7 - 10 - 70%,6 - 8 - 75%,1 - 2 - 50%,1 - 3 - 33%,2,2,4,1,1,0,1,1,3,0,16,Nathan Wetzel
+at Nyssa Dec 15,14,5 - 10 - 50%,2 - 4 - 50%,3 - 6 - 50%,1 - 1 - 100%,1,2,3,1,0,0,3,0,5,0,10,Nathan Wetzel
+vs. Payette Dec 18,12,6 - 7 - 86%,6 - 6 - 100%,0 - 1 - 0%,0 - 0 - 0%,1,0,1,0,2,0,0,0,0,0,14,Nathan Wetzel
+at McCall Jan 04,8,3 - 10 - 30%,2 - 5 - 40%,1 - 5 - 20%,1 - 2 - 50%,1,2,3,2,1,0,1,2,1,0,5,Nathan Wetzel
+at Payette Jan 05,13,5 - 8 - 63%,3 - 5 - 60%,2 - 3 - 67%,1 - 2 - 50%,0,0,0,2,1,0,0,0,2,0,12,Nathan Wetzel
+at New Plymouth Jan 09,5,2 - 10 - 20%,1 - 5 - 20%,1 - 5 - 20%,0 - 0 - 0%,2,2,4,2,0,0,1,0,0,0,2,Nathan Wetzel
+vs. Melba Jan 12,19,7 - 10 - 70%,3 - 5 - 60%,4 - 5 - 80%,1 - 2 - 50%,1,3,4,3,0,0,1,2,1,0,21,Nathan Wetzel
+vs. Nampa Christian Jan 18,12,5 - 11 - 45%,3 - 6 - 50%,2 - 5 - 40%,0 - 2 - 0%,0,3,3,5,3,0,0,1,2,0,15,Nathan Wetzel
+at Marsing Jan 22,4,2 - 8 - 25%,2 - 6 - 33%,0 - 2 - 0%,0 - 0 - 0%,0,3,3,1,0,0,1,0,0,0,1,Nathan Wetzel
+vs. McCall Jan 25,13,4 - 10 - 40%,1 - 4 - 25%,3 - 6 - 50%,2 - 2 - 100%,2,3,5,2,0,1,1,0,1,0,14,Nathan Wetzel
+vs. New Plymouth Jan 30,7,3 - 11 - 27%,2 - 3 - 67%,1 - 8 - 13%,0 - 0 - 0%,0,2,2,0,1,0,1,0,0,0,1,Nathan Wetzel
+at Melba Feb 01,20,8 - 15 - 53%,4 - 6 - 67%,4 - 9 - 44%,0 - 0 - 0%,1,3,4,2,2,0,3,0,0,0,18,Nathan Wetzel
+at Nampa Christian Feb 06,12,5 - 10 - 50%,3 - 3 - 100%,2 - 7 - 29%,0 - 0 - 0%,1,1,2,2,1,0,0,0,1,0,12,Nathan Wetzel
+vs. Marsing Feb 08,3,1 - 3 - 33%,1 - 1 - 100%,0 - 2 - 0%,1 - 2 - 50%,0,0,0,0,2,1,1,1,1,0,2,Nathan Wetzel
+vs. Melba Feb 18,10,4 - 6 - 67%,3 - 5 - 60%,1 - 1 - 100%,1 - 2 - 50%,0,2,2,4,0,0,1,0,3,0,12,Nathan Wetzel
+at Marsing Feb 21,7,3 - 8 - 38%,2 - 5 - 40%,1 - 3 - 33%,0 - 1 - 0%,0,5,5,5,0,0,1,1,2,0,10,Nathan Wetzel
+vs. Bear Lake Feb 28,12,4 - 9 - 44%,2 - 5 - 40%,2 - 4 - 50%,2 - 7 - 29%,3,2,5,3,2,0,2,2,5,0,10,Nathan Wetzel
+vs. Homedale Nov 27,2,1 - 2 - 50%,1 - 2 - 50%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,0,0,0,0,1,0,0,3,Garrett Smith
+vs. Nyssa Nov 30,0,0 - 2 - 0%,0 - 2 - 0%,0 - 0 - 0%,0 - 0 - 0%,2,0,2,0,0,0,2,1,1,0,-2,Garrett Smith
+at Homedale Dec 06,4,2 - 3 - 67%,2 - 3 - 67%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,2,0,0,0,1,Garrett Smith
+at Firth Dec 07,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-1,Garrett Smith
+at South Fremont Dec 08,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,1,0,0,0,0,0,0,1,Garrett Smith
+at Parma Dec 11,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Garrett Smith
+at Ambrose Dec 14,1,0 - 4 - 0%,0 - 4 - 0%,0 - 0 - 0%,1 - 2 - 50%,1,0,1,0,0,0,1,0,1,0,-4,Garrett Smith
+at Nyssa Dec 15,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Garrett Smith
+vs. Payette Dec 18,2,1 - 4 - 25%,1 - 4 - 25%,0 - 0 - 0%,0 - 0 - 0%,0,2,2,1,3,1,5,2,0,0,1,Garrett Smith
+at McCall Jan 04,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,1,0,1,0,0,0,0,Garrett Smith
+at Payette Jan 05,2,1 - 5 - 20%,1 - 4 - 25%,0 - 1 - 0%,0 - 0 - 0%,3,3,6,3,1,2,2,3,0,0,8,Garrett Smith
+at New Plymouth Jan 09,5,2 - 3 - 67%,2 - 3 - 67%,0 - 0 - 0%,1 - 4 - 25%,1,2,3,1,0,0,1,1,1,0,4,Garrett Smith
+vs. Melba Jan 12,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,1,1,0,0,1,0,0,3,Garrett Smith
+vs. Nampa Christian Jan 18,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,-1,Garrett Smith
+at Marsing Jan 22,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,3,0,3,0,0,0,0,1,0,0,2,Garrett Smith
+vs. McCall Jan 25,4,2 - 5 - 40%,2 - 5 - 40%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,0,0,0,1,1,2,0,1,Garrett Smith
+vs. New Plymouth Jan 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,1,0,0,0,Garrett Smith
+at Melba Feb 01,2,1 - 2 - 50%,1 - 2 - 50%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,1,0,0,0,0,0,0,2,Garrett Smith
+at Nampa Christian Feb 06,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,0,0,0,1,0,0,0,-1,Garrett Smith
+vs. Marsing Feb 08,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Garrett Smith
+vs. Melba Feb 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Garrett Smith
+at Marsing Feb 21,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Garrett Smith
+vs. Bear Lake Feb 28,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Garrett Smith
+vs. Homedale Nov 27,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Hunter Gill
+vs. Nyssa Nov 30,0,0 - 3 - 0%,0 - 1 - 0%,0 - 2 - 0%,0 - 0 - 0%,0,0,0,0,1,0,2,0,0,0,-4,Hunter Gill
+at Homedale Dec 06,2,1 - 5 - 20%,1 - 1 - 100%,0 - 4 - 0%,0 - 0 - 0%,1,2,3,1,2,1,2,1,2,0,3,Hunter Gill
+at Firth Dec 07,11,5 - 8 - 63%,4 - 6 - 67%,1 - 2 - 50%,0 - 0 - 0%,2,1,3,0,3,1,1,0,0,0,14,Hunter Gill
+at South Fremont Dec 08,8,3 - 4 - 75%,1 - 1 - 100%,2 - 3 - 67%,0 - 0 - 0%,0,2,2,0,1,1,0,2,0,0,11,Hunter Gill
+at Parma Dec 11,0,0 - 2 - 0%,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,2,1,3,0,2,2,1,0,2,0,4,Hunter Gill
+at Ambrose Dec 14,2,1 - 2 - 50%,1 - 2 - 50%,0 - 0 - 0%,0 - 0 - 0%,2,1,3,1,0,0,0,0,0,0,5,Hunter Gill
+at Nyssa Dec 15,3,1 - 6 - 17%,0 - 2 - 0%,1 - 4 - 25%,0 - 0 - 0%,0,2,2,1,1,0,2,1,0,0,0,Hunter Gill
+vs. Payette Dec 18,9,4 - 12 - 33%,3 - 8 - 38%,1 - 4 - 25%,0 - 0 - 0%,1,2,3,0,1,0,2,1,1,0,3,Hunter Gill
+at McCall Jan 04,2,1 - 5 - 20%,1 - 2 - 50%,0 - 3 - 0%,0 - 0 - 0%,0,0,0,1,1,0,1,0,0,0,-1,Hunter Gill
+at Payette Jan 05,10,4 - 8 - 50%,2 - 2 - 100%,2 - 6 - 33%,0 - 0 - 0%,1,2,3,1,2,0,0,3,2,0,12,Hunter Gill
+at New Plymouth Jan 09,0,0 - 1 - 0%,0 - 0 - 0%,0 - 1 - 0%,0 - 0 - 0%,0,0,0,0,1,1,1,5,1,0,0,Hunter Gill
+vs. Melba Jan 12,0,0 - 5 - 0%,0 - 2 - 0%,0 - 3 - 0%,0 - 0 - 0%,1,0,1,0,1,0,1,1,2,0,-4,Hunter Gill
+vs. Nampa Christian Jan 18,0,0 - 3 - 0%,0 - 0 - 0%,0 - 3 - 0%,0 - 0 - 0%,1,2,3,2,2,2,2,1,0,0,4,Hunter Gill
+at Marsing Jan 22,5,2 - 3 - 67%,1 - 1 - 100%,1 - 2 - 50%,0 - 0 - 0%,0,0,0,0,0,1,2,1,0,0,3,Hunter Gill
+vs. McCall Jan 25,3,1 - 5 - 20%,0 - 2 - 0%,1 - 3 - 33%,0 - 0 - 0%,0,2,2,0,1,1,0,1,0,0,3,Hunter Gill
+vs. New Plymouth Jan 30,2,1 - 4 - 25%,1 - 2 - 50%,0 - 2 - 0%,0 - 0 - 0%,0,2,2,0,0,0,0,1,0,0,1,Hunter Gill
+at Melba Feb 01,2,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,2 - 2 - 100%,1,3,4,0,0,1,1,4,1,0,5,Hunter Gill
+at Nampa Christian Feb 06,3,1 - 1 - 100%,0 - 0 - 0%,1 - 1 - 100%,0 - 0 - 0%,1,0,1,0,0,1,0,0,0,0,5,Hunter Gill
+vs. Marsing Feb 08,0,0 - 2 - 0%,0 - 2 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,0,0,0,0,0,0,-1,Hunter Gill
+vs. Melba Feb 18,5,2 - 6 - 33%,1 - 3 - 33%,1 - 3 - 33%,0 - 0 - 0%,2,2,4,2,2,2,0,1,1,0,11,Hunter Gill
+at Marsing Feb 21,5,2 - 6 - 33%,1 - 3 - 33%,1 - 3 - 33%,0 - 2 - 0%,2,0,2,2,0,0,1,1,1,0,2,Hunter Gill
+vs. Bear Lake Feb 28,2,1 - 3 - 33%,1 - 3 - 33%,0 - 0 - 0%,0 - 0 - 0%,3,1,4,0,0,0,2,1,0,0,2,Hunter Gill
+vs. Homedale Nov 27,17,6 - 9 - 67%,5 - 7 - 71%,1 - 2 - 50%,4 - 8 - 50%,4,7,11,0,3,2,1,3,5,0,25,Dylan Krogh
+vs. Nyssa Nov 30,4,2 - 10 - 20%,2 - 9 - 22%,0 - 1 - 0%,0 - 0 - 0%,5,5,10,2,4,0,3,4,1,0,9,Dylan Krogh
+at Homedale Dec 06,15,7 - 11 - 64%,7 - 11 - 64%,0 - 0 - 0%,1 - 2 - 50%,2,5,7,1,4,0,1,4,2,0,21,Dylan Krogh
+at Firth Dec 07,14,6 - 12 - 50%,4 - 10 - 40%,2 - 2 - 100%,0 - 2 - 0%,4,3,7,2,4,0,3,6,6,0,16,Dylan Krogh
+at South Fremont Dec 08,16,7 - 13 - 54%,6 - 11 - 55%,1 - 2 - 50%,1 - 3 - 33%,7,5,12,4,1,0,4,5,3,0,21,Dylan Krogh
+at Parma Dec 11,18,8 - 15 - 53%,7 - 12 - 58%,1 - 3 - 33%,1 - 1 - 100%,5,2,7,1,7,0,4,2,1,0,22,Dylan Krogh
+at Ambrose Dec 14,9,4 - 10 - 40%,4 - 9 - 44%,0 - 1 - 0%,1 - 3 - 33%,2,5,7,4,3,2,2,1,3,0,15,Dylan Krogh
+at Nyssa Dec 15,14,5 - 9 - 56%,5 - 8 - 63%,0 - 1 - 0%,4 - 6 - 67%,6,4,10,3,3,1,2,6,5,0,23,Dylan Krogh
+vs. Payette Dec 18,2,1 - 5 - 20%,1 - 5 - 20%,0 - 0 - 0%,0 - 0 - 0%,3,0,3,7,7,0,2,0,0,0,13,Dylan Krogh
+at McCall Jan 04,8,4 - 11 - 36%,4 - 11 - 36%,0 - 0 - 0%,0 - 1 - 0%,2,5,7,5,0,1,1,2,2,0,12,Dylan Krogh
+at Payette Jan 05,4,2 - 7 - 29%,2 - 7 - 29%,0 - 0 - 0%,0 - 0 - 0%,1,2,3,1,3,0,1,1,0,0,5,Dylan Krogh
+at New Plymouth Jan 09,21,9 - 18 - 50%,9 - 17 - 53%,0 - 1 - 0%,3 - 5 - 60%,4,5,9,3,3,0,5,2,3,0,20,Dylan Krogh
+vs. Melba Jan 12,9,4 - 7 - 57%,4 - 7 - 57%,0 - 0 - 0%,1 - 4 - 25%,2,6,8,2,2,0,1,3,3,0,14,Dylan Krogh
+vs. Nampa Christian Jan 18,18,8 - 13 - 62%,8 - 13 - 62%,0 - 0 - 0%,2 - 5 - 40%,8,8,16,5,3,1,3,4,3,0,32,Dylan Krogh
+at Marsing Jan 22,7,3 - 12 - 25%,2 - 9 - 22%,1 - 3 - 33%,0 - 0 - 0%,5,3,8,1,2,0,2,4,0,0,7,Dylan Krogh
+vs. McCall Jan 25,20,8 - 11 - 73%,6 - 7 - 86%,2 - 4 - 50%,2 - 3 - 67%,1,2,3,5,2,2,1,2,3,0,27,Dylan Krogh
+vs. New Plymouth Jan 30,5,1 - 7 - 14%,0 - 4 - 0%,1 - 3 - 33%,2 - 2 - 100%,2,2,4,4,0,0,3,2,2,0,4,Dylan Krogh
+at Melba Feb 01,9,4 - 9 - 44%,4 - 8 - 50%,0 - 1 - 0%,1 - 4 - 25%,1,4,5,1,3,1,3,1,4,0,8,Dylan Krogh
+at Nampa Christian Feb 06,11,4 - 8 - 50%,4 - 7 - 57%,0 - 1 - 0%,3 - 6 - 50%,2,4,6,4,6,0,4,4,3,0,16,Dylan Krogh
+vs. Marsing Feb 08,20,7 - 11 - 64%,6 - 10 - 60%,1 - 1 - 100%,5 - 5 - 100%,5,6,11,1,0,0,1,3,4,0,27,Dylan Krogh
+vs. Melba Feb 18,9,4 - 6 - 67%,4 - 5 - 80%,0 - 1 - 0%,1 - 2 - 50%,1,4,5,2,3,0,4,3,1,0,12,Dylan Krogh
+at Marsing Feb 21,19,8 - 12 - 67%,6 - 9 - 67%,2 - 3 - 67%,1 - 2 - 50%,3,3,6,3,2,2,1,2,2,0,26,Dylan Krogh
+vs. Bear Lake Feb 28,13,5 - 9 - 56%,4 - 5 - 80%,1 - 4 - 25%,2 - 3 - 67%,2,2,4,4,3,0,2,1,4,0,17,Dylan Krogh
+vs. Melba Jan 12,2,1 - 1 - 100%,1 - 1 - 100%,0 - 0 - 0%,0 - 1 - 0%,0,0,0,0,0,0,3,2,2,0,-2,Carson Weidmeier
+vs. Nampa Christian Jan 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Carson Weidmeier
+vs. McCall Jan 25,3,1 - 2 - 50%,0 - 1 - 0%,1 - 1 - 100%,0 - 0 - 0%,0,0,0,1,1,0,0,0,0,0,4,Carson Weidmeier
+vs. New Plymouth Jan 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,0,0,0,-1,Carson Weidmeier
+at Melba Feb 01,1,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,1 - 2 - 50%,0,0,0,0,0,0,0,1,1,0,0,Carson Weidmeier
+at Nampa Christian Feb 06,3,1 - 1 - 100%,0 - 0 - 0%,1 - 1 - 100%,0 - 0 - 0%,0,0,0,1,2,0,2,2,1,0,4,Carson Weidmeier
+vs. Marsing Feb 08,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,-1,Carson Weidmeier
+vs. Melba Feb 18,5,2 - 2 - 100%,1 - 1 - 100%,1 - 1 - 100%,0 - 0 - 0%,0,0,0,0,1,0,0,1,0,0,6,Carson Weidmeier
+at Marsing Feb 21,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,2,0,1,0,-2,Carson Weidmeier
+vs. Bear Lake Feb 28,0,0 - 2 - 0%,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,3,0,0,-3,Carson Weidmeier
+vs. Homedale Nov 27,2,1 - 1 - 100%,1 - 1 - 100%,0 - 0 - 0%,0 - 0 - 0%,1,1,2,0,1,0,1,1,0,0,4,Tony Boyle
+at Homedale Dec 06,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,1,0,0,1,0,0,0,0,Tony Boyle
+at Firth Dec 07,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+at South Fremont Dec 08,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,1,2,0,0,-1,Tony Boyle
+at Parma Dec 11,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,0,0,1,0,0,0,0,Tony Boyle
+at Ambrose Dec 14,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,2,0,0,0,2,0,0,2,Tony Boyle
+at Nyssa Dec 15,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,1,0,0,0,Tony Boyle
+vs. Payette Dec 18,0,0 - 3 - 0%,0 - 3 - 0%,0 - 0 - 0%,0 - 0 - 0%,2,1,3,2,0,1,0,1,0,0,3,Tony Boyle
+at McCall Jan 04,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+at Payette Jan 05,2,1 - 4 - 25%,1 - 4 - 25%,0 - 0 - 0%,0 - 0 - 0%,1,3,4,0,3,1,1,2,0,0,6,Tony Boyle
+vs. Nampa Christian Jan 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+at Marsing Jan 22,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,1,1,0,0,0,0,0,0,0,1,Tony Boyle
+vs. New Plymouth Jan 30,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+at Melba Feb 01,0,0 - 1 - 0%,0 - 1 - 0%,0 - 0 - 0%,0 - 0 - 0%,1,0,1,0,0,0,1,3,0,0,-1,Tony Boyle
+at Nampa Christian Feb 06,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+vs. Marsing Feb 08,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+vs. Melba Feb 18,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+at Marsing Feb 21,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
+vs. Bear Lake Feb 28,0,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0 - 0 - 0%,0,0,0,0,0,0,0,0,0,0,0,Tony Boyle
